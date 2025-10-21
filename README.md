@@ -56,13 +56,6 @@
 > Automates image transformations (rotate, scale, translate) via a simple GUI.  
 > ✅ Tkinter interface | ✅ Productivity tool concept
 
-#### 🔁 [Motion Figures – Image Automation](https://github.com/Magi3654/motion-figures)
-> Uses **Pillow** to programmatically apply geometric transformations to images.  
-> ✅ Batch processing | ✅ Creative automation
-
-#### 🔢 [Roman ↔ Decimal Converter](https://github.com/Magi3654/romantodecimal)
-> A clean utility to convert between numeral systems—built for clarity and reuse.  
-> ✅ Input validation | ✅ CLI-friendly | ✅ Lightweight
 
 *(More experiments in my [repositories](https://github.com/Magi3654?tab=repositories))*
 
