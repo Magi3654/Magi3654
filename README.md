@@ -1,5 +1,5 @@
 <!-- Keep it clean, modern, and focused on frontend & automation -->
-<h1 align="center">Hi 👋, I'm Magi</h1>
+<h1 align="center">Hi 👋, I'm Ilse Machado</h1>
 <h3 align="center">Frontend Developer | UI/UX Enthusiast | Automation Advocate</h3>
 
 <p align="center">
