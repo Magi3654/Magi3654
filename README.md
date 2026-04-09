@@ -65,10 +65,4 @@
 > “Good design is invisible. Great automation makes work disappear.”  
 > I build tools and interfaces that **reduce friction**, **respect the user**, and **just work**.
 
----
 
-### 📈 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Magi3654&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magi3654&layout=compact&theme=radical" />
-</div>
